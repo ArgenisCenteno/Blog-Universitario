@@ -1,2 +1,3 @@
-# Proyecto-AppWeb
-Proyecto final para UPTNMLS.
+# Blog Universitario
+Proyecto de UPTMLS. 
+
